@@ -27,6 +27,7 @@ module.exports = {
       email: 'draffo3@gmail.com',
       twitter: 'donalnotdonald',
       github: 'DonalRafferty',
+      linkedin: "donal-rafferty-4a302a167",
     },
   },
   plugins: [
@@ -117,7 +118,7 @@ module.exports = {
     'gatsby-plugin-sharp',
     {
       resolve: 'gatsby-plugin-google-analytics',
-      options: { trackingId: 'UA-73379983-2' },
+      options: { trackingId: 'UA-44927883-3' },
     },
     {
       resolve: 'gatsby-plugin-google-fonts',
