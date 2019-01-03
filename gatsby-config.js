@@ -6,7 +6,7 @@ module.exports = {
     url: 'https://donalrafferty.com',
     title: 'Donal Rafferty',
     subtitle:'Thoughts, musings, and insights into the challenges organisations face in the digital world.',
-    copyright: '2019 © All rights reserved.',
+    copyright: '2019 © Donal Rafferty, All rights reserved.',
     disqusShortname: '',
     menu: [
       {
