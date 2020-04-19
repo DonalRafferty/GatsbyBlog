@@ -29,6 +29,7 @@ module.exports = {
       github: 'DonalRafferty',
       linkedin: "donal-rafferty-4a302a167",
     },
+    siteUrl: `https://donalrafferty.com`
   },
   plugins: [
     {
@@ -116,10 +117,6 @@ module.exports = {
     },
     'gatsby-transformer-sharp',
     'gatsby-plugin-sharp',
-    {
-      resolve: 'gatsby-plugin-google-analytics',
-      options: { trackingId: 'UA-44927883-3' },
-    },
     {
       resolve: 'gatsby-plugin-google-fonts',
       options: {
