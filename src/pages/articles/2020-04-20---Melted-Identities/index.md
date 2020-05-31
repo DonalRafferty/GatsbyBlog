@@ -18,11 +18,11 @@ Covid-19, and the sudden shock to our systems it has caused presents many exampl
 
 ### The Digital Invasion
 
-The wonders of our information, and communication, technlogy have become abundantly clear. Organisations, that only a decade ago would have had to go into hibernation because of the virus, can continue to function. Employees can remain in contact on an ongoing basis through the mediums of text, voice, and even video. Data and tools are secured via virtual private networks (VPNs), and work trundles on, unabated by lockdown protocols or infection fears. 
+The wonders of our information, and communication, technology have become abundantly clear. Organisations, that only a decade ago would have had to go into hibernation because of the virus, can continue to function. Employees can remain in contact on an ongoing basis through the mediums of text, voice, and even video. Data and tools are secured via virtual private networks (VPNs), and work trundles on, unabated by lockdown protocols or infection fears. 
 
 For those of us lucky enough to be in a position to work from home, digital technology must be looked upon as providing us a great privilege. However, we also must be aware of it's impact on our lives. In particular, communication technology has become so ubiquitous that we often fail to see how it changes our actions, our relationships, and ourselves.
 
-In this regard, my biggest concern is the merging of the work place and the home. When the two are seperate they provide a place in space that allow us to be our professional selves at one location, and our personal selves at the other. Coupled with the invasion of digital communication devices on our person and in our home, where do we now go to escape our working identity?
+In this regard, my biggest concern is the merging of the work place and the home. When the two are separate they provide a place in space that allow us to be our professional selves at one location, and our personal selves at the other. Coupled with the invasion of digital communication devices on our person and in our home, where do we now go to escape our working identity?
 
 ### Our Changing Faces
 
@@ -36,7 +36,7 @@ Now that home is work, there is the real possibility that many of us will suffer
 
 I have already noticed that many of my colleagues are working longer. Typically the hours they might have spent travelling they are now online. Some are working over weekends. Many have commented on increased demand, stating 'I'm now working harder than ever before'. There seems to be a low lying fog of expectation that because people are in isolation they are available like a software service. A service to be reached out to and turned on at any time, one that can scale up, and down, as demand requires. That their professional identity now exists outside the space, and time, boundaries that existed pre covid-19.
 
-This has led to me personally experiencing the melting of my identities. I have worked longer, and accepted additional work ever since we were told to isolate for the good of the country. I have done so not because of an evil corporation, or a demanding boss (I have quite the opposute), but because I have allowed the wall that created a boundary between who I am at work, and who I am at home, to crumble.
+This has led to me personally experiencing the melting of my identities. I have worked longer, and accepted additional work ever since we were told to isolate for the good of the country. I have done so not because of an evil corporation, or a demanding boss (I have quite the opposite), but because I have allowed the wall that created a boundary between who I am at work, and who I am at home, to crumble.
 
 The fact that I can at any time connect to my work through technology, coupled with not having anywhere to go to get away from it, has led to my personal identity being eroded. As you might imagine this isn't sustainable. Burn out will eventually hit me, motivation will evaporate, and there is potential that my family will become more disconnected from me.
 
